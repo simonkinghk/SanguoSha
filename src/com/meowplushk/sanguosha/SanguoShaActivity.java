@@ -67,7 +67,6 @@ public class SanguoShaActivity extends Activity {
                      } 
                 }, 1500); 
 
-            	
             }
         });
     }
